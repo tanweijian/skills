@@ -1,4 +1,4 @@
 ---
-name: wizard
+name: agent-init
 description: ...
 ---
