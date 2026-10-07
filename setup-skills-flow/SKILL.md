@@ -1,5 +1,5 @@
 ---
-name: setup-agent
+name: setup-skills-flow
 description: 为代码仓库初始化或整理 agent 工作环境：建立 docs 文档目录与索引、根目录 AGENTS.md，以及 .agent 工作空间。适用于新项目初始化或现有项目补齐这些约定。
 ---
 
